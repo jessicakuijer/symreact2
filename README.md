@@ -1,3 +1,6 @@
+un-finished project, if you clone it, there's a need for improvements.
+Projet non fini en date date du 18/08/2020. N'hesitez pas à l'améliorer si vous clonez le projet tel quel.
+
 # symreact2
 
 Formation Développement Moderne avec ApiPlatform (Symfony) et React par Lior Chamla: https://learn.web-develop.me/developpement-moderne-avec-apiplatform-symfony-et-react/v3pke
